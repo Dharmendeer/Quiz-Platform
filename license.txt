@@ -1,5 +1,5 @@
 
-Quiz App 1.0
+Quiz App 1.00
 
 Copyright 2024 (c) WebIntoApp.com
 
